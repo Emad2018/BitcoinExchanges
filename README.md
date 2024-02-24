@@ -13,7 +13,7 @@ This project uses:
 
 3-[Curl](https://curl.se).
 
-4-[GCC 13][https://phoenixnap.com/kb/install-gcc-ubuntu]
+4-[GCC 13](https://phoenixnap.com/kb/install-gcc-ubuntu)
 
 ## Instructions
 
