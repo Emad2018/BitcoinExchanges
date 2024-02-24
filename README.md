@@ -6,19 +6,27 @@ the Bitcoin prices value is from  [Blockchain.com](https://blockchain.info/ticke
 
 ## Make
 This project uses:
+
 1-[Make](https://www.gnu.org/software/make/).
+
 2-[Json](https://github.com/nlohmann/json).
+
 3-[Curl](https://curl.se).
+
 
 ## Instructions
 
 1. Clone the project repository: `git clone https://github.com/Emad2018/BitcoinExchanges.git`
 
 2. Build the project:
+   
 `mkdir build && cd build`
+
 `cmake ..`
+
 `make`
-3. Run the resulting executable: `./BitcoinExchanges`
+
+4. Run the resulting executable: `./BitcoinExchanges`
 
 # Result
 
